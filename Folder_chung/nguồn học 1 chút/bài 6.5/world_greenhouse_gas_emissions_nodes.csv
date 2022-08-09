@@ -1,0 +1,42 @@
+order,id,Kind,Name,Value
+1,Energy,1 Primary,Energy,66.31
+2,Non-Energy,1 Primary,Non-Energy,33.59
+3,Transportation,2 Sector,Transportation,14.3
+4,Electricity & Heat,2 Sector,Electricity & Heat,24.89
+5,Other Fuel Combustion,2 Sector,Other Fuel Combustion,8.61
+6,Industry,2 Sector,Industry,14.44
+7,Fugitive Emissions,2 Sector,Fugitive Emissions,4.07
+8,Industrial Processes,2 Sector,Industrial Processes,4.39
+9,Land Use Change,2 Sector,Land Use Change,12.2
+10,Agriculture,2 Sector,Agriculture,13.8
+11,Waste,2 Sector,Waste,3.2
+12,Road,3 End User Activity,Road,10.5
+13,Air,3 End User Activity,Air,1.7
+14,"Rail, Ship, & Other Transport",3 End User Activity,"Rail, Ship, & Other Transport",2.5
+15,Residential Buildings,3 End User Activity,Residential Buildings,10.2
+16,Commercial Buildings,3 End User Activity,Commercial Buildings,6.3
+17,Unallocated Fuel Combustion,3 End User Activity,Unallocated Fuel Combustion,3.8
+18,Iron & Steel,3 End User Activity,Iron & Steel,4
+19,Aluminum/Non-Ferrous Metals,3 End User Activity,Aluminum/Non-Ferrous Metals,1.2
+20,Machinery,3 End User Activity,Machinery,1
+21,"Pulp, Paper & Printing",3 End User Activity,"Pulp, Paper & Printing",1.1
+22,Food & Tobacco,3 End User Activity,Food & Tobacco,1
+23,Chemicals,3 End User Activity,Chemicals,4.1
+24,Cement,3 End User Activity,Cement,5
+25,Other Industry,3 End User Activity,Other Industry,7
+26,T & D Losses,3 End User Activity,T & D Losses,2.2
+27,Coal Mining,3 End User Activity,Coal Mining,1.3
+28,"Oil/4 Gas Extraction, Refining, & Processing",3 End User Activity,"Oil/4 Gas Extraction, Refining, & Processing",6.4
+29,Deforestation,3 End User Activity,Deforestation,10.9
+30,Harvest/Management,3 End User Activity,Harvest/Management,1.3
+31,Agricultural Energy Use,3 End User Activity,Agricultural Energy Use,1.4
+32,Agriculture Soils,3 End User Activity,Agriculture Soils,5.2
+33,Livestock & Manure,3 End User Activity,Livestock & Manure,5.4
+34,Rice Cultivation,3 End User Activity,Rice Cultivation,1.5
+35,Other Agriculture,3 End User Activity,Other Agriculture,1.7
+36,Landfills,3 End User Activity,Landfills,1.7
+37,"Wastewater, Other Waste",3 End User Activity,"Wastewater, Other Waste",1.5
+38,CO2,4 Gas,CO2,76.15
+39,CH4,4 Gas,CH4,13.04
+40,N2O,4 Gas,N2O,9.26
+41,"HFCs, PFCs, SF6",4 Gas,"HFCs, PFCs, SF6",1.45
